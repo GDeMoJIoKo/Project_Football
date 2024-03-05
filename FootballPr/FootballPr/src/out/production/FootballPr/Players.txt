@@ -1,0 +1,60 @@
+ 
+Current club: Benfica
+Age: 24
+Annual salary: 500000
+Contract length(years): 4
+This player plays at flank
+This player is a finisher
+His salary for a full contract is 2000000.0 $
+
+Current club: Liverpool
+Age: 28
+Annual salary: 450000
+Contract length(years): 3
+This player plays at center
+This player is a creator
+His salary for a full contract is 1350000.0 $
+
+Current club: Chelsea
+Age: 19
+Annual salary: 300000
+Contract length(years): 6
+This players playstyle is defensive
+This player is uncreative
+His salary for a full contract is 1800000.0 $
+
+Current club: Real Madrid
+Age: 34
+Annual salary: 350000
+Contract length(years): 2
+This players playstyle is offensive
+This player is creative
+His salary for a full contract is 700000.0 $
+
+Current club: Barcelona
+Age: 17
+Annual salary: 200000
+Contract length(years): 5
+This players position in defensive line is defender
+This player prefers to play as a centre
+His salary for a full contract is 1000000.0 $
+
+Current club: Porto
+Age: 35
+Annual salary: 150000
+Contract length(years): 1
+This players position in defensive line is goalkeeper
+This player prefers to play as a sweeper keeper
+His salary for a full contract is 150000.0 $
+
+Current club: Dundee United
+Age: 26
+Annual salary: 75000
+Contract length(years): 3
+His salary for a full contract is 225000.0 $
+
+Current club: Burnley
+Age: 20
+Annual salary: 50000
+Contract length(years): 5
+His salary for a full contract is 250000.0 $
